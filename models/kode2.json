@@ -1,0 +1,34 @@
+{
+  "title": "kode2",
+  "x-stoplight": {
+    "id": "vwb680acgew3c"
+  },
+  "type": "object",
+  "description": "kode2",
+  "properties": {
+    "id": {
+      "type": "string",
+      "x-stoplight": {
+        "id": "9s77bppjucqep"
+      }
+    },
+    "test2": {
+      "type": "string",
+      "x-stoplight": {
+        "id": "i8jomdgpf94tw"
+      }
+    },
+    "test90": {
+      "type": "string",
+      "x-stoplight": {
+        "id": "rwet9cavomj0r"
+      }
+    },
+    "refer": {
+      "$ref": "./model1.yaml",
+      "x-stoplight": {
+        "id": "qid4evlxpnq1l"
+      }
+    }
+  }
+}
